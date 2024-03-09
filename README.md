@@ -14,4 +14,6 @@
   Before launching this script you also need install PILLOW python library
   
     pip install pillow
+
+ Change  src_dir and dst_dir and run script.
     
